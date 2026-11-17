@@ -1,8 +1,8 @@
 # Paladin Guide
 
-A World of Warcraft: Forever addon for **Retribution Paladins** and **Feral Druids**. It shows which spell to press next, reminds you of missing buffs, says whether gear is an upgrade (crafted gear too), lists gear upgrades for your level, suggests where to level, and guides you through dungeons boss by boss.
+A World of Warcraft: Forever addon for **Retribution Paladins**, **Feral Druids** and **Enhancement Shamans**. It shows which spell to press next, reminds you of missing buffs, says whether gear is an upgrade (crafted gear too), lists gear upgrades for your level, suggests where to level, and guides you through dungeons boss by boss.
 
-On a Druid it calls itself **Feral Guide**.
+On a Druid it calls itself **Feral Guide**, and on a Shaman **Enhancement Guide**.
 
 ## Download
 
