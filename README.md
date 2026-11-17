@@ -1,6 +1,6 @@
 # Paladin Guide
 
-A World of Warcraft: Forever addon for **Retribution Paladins** and **Feral Druids**. It shows which spell to press next, reminds you of missing buffs, says whether gear is an upgrade, lists gear upgrades for your level, and suggests where to level.
+A World of Warcraft: Forever addon for **Retribution Paladins** and **Feral Druids**. It shows which spell to press next, reminds you of missing buffs, says whether gear is an upgrade (crafted gear too), lists gear upgrades for your level, suggests where to level, and guides you through dungeons boss by boss.
 
 On a Druid it calls itself **Feral Guide**.
 
@@ -36,6 +36,7 @@ Optional but recommended:
   - right-click for Stats;
   - shift-click for Gear.
 - `/pg unlock` lets you move the box, and `/pg lock` fixes it in place.
+- In a dungeon, a step card shows the next boss, how to get there and its tactic, with a star on a boss that drops an upgrade for you. Its **Map** button shows the floor with the route. `/pg dungeons` lists the dungeons around your level and the quests to take in.
 - `/pg check` shows what the addon can see.
   - **Druids:** after your first fight, type `/pg check` and send the line that starts "In your last fight". It says whether the game lets addons see energy and combo points.
 
@@ -45,3 +46,8 @@ Download the new zip and replace the `PaladinGuide` folder.
 
 - Restart the game, rather than `/reload`.
 - Your settings are kept.
+
+## License note
+
+The boss positions on the dungeon maps (`PaladinGuide/DungeonPins.lua`) come from [CMaNGOS classic-db](https://github.com/cmangos/classic-db) and are under the GNU General Public License version 3. That file may be shared under its terms.
+
