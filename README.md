@@ -37,6 +37,8 @@ Optional but recommended:
   - shift-click for Gear.
 - `/pg unlock` lets you move the box, and `/pg lock` fixes it in place.
 - In a dungeon, a step card shows the next boss, how to get there and its tactic, with a star on a boss that drops an upgrade for you. Its **Map** button shows the floor with the route. `/pg dungeons` lists the dungeons around your level and the quests to take in.
+- `/pg macros` lists ready-made macros for your class, with a **Make it** button for each.
+- On a Hunter, `/pg pets` shows your pet, what it can learn and where, and whether a better pet would suit you.
 - `/pg check` shows what the addon can see.
   - **Druids:** after your first fight, type `/pg check` and send the line that starts "In your last fight". It says whether the game lets addons see energy and combo points.
 
